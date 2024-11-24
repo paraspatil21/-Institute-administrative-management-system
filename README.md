@@ -34,12 +34,15 @@ A Java-Swing-based system to streamline operations in educational institutions. 
    git clone https://github.com/yourusername/institute-administrative-management-system.git
 
 
-2.Open the project in your preferred IDE.
-3.Configure the Oracle database credentials in the db_config.properties file.
-3.Compile and run the project:
+## **Getting Started**
 
--javac Main.java
--java Main
+1. **Open the project in your preferred IDE.**  
+2. **Configure the Oracle database credentials in the `db_config.properties` file.**  
+3. **Compile and run the project:**  
+   ```bash
+   javac Main.java
+   java Main
+
 
 
 ### **Future Enhancements**
