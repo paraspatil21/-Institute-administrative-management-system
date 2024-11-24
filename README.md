@@ -34,40 +34,40 @@ A Java-Swing-based system to streamline operations in educational institutions. 
    git clone https://github.com/yourusername/institute-administrative-management-system.git
 
 
-Open the project in your preferred IDE.
-Configure the Oracle database credentials in the db_config.properties file.
-Compile and run the project:
+2.Open the project in your preferred IDE.
+3.Configure the Oracle database credentials in the db_config.properties file.
+3.Compile and run the project:
 
-javac Main.java
-java Main
-
-
-Future Enhancements
-Integration with cloud databases for improved scalability.
-Addition of role-based access control for enhanced security.
-Implementation of analytics dashboards for administrative insights.
+-javac Main.java
+-java Main
 
 
-Contributing
-Contributions are welcome! Please follow the steps below:
+### **Future Enhancements**
+1.Integration with cloud databases for improved scalability.
+2.Addition of role-based access control for enhanced security.
+3.Implementation of analytics dashboards for administrative insights.
 
-Fork the repository.
-Create a new branch
 
-git checkout -b feature-name
+### **Contributing**
+-Contributions are welcome! Please follow the steps below:
 
-Commit your changes and push to your fork.
-Create a pull request for review.
+1.Fork the repository.
+2.Create a new branch
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+-git checkout -b feature-name
+
+3.Commit your changes and push to your fork.
+4.Create a pull request for review.
+
+-License
+-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any queries or suggestions, feel free to reach out:
-Email: your.email@example.com
-GitHub: yourusername
+-Email: parasspatil10@gmail.com.com
+-GitHub: (https://github.com/paraspatil21)
 
 
-This **README** uses proper formatting to create a visually appealing and informative document for your project. Replace placeholders (e.g., `yourusername`, screenshots) with your specific details.
+
 
 
