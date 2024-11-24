@@ -45,30 +45,32 @@ A Java-Swing-based system to streamline operations in educational institutions. 
 
 
 
-### **Future Enhancements**
-1.Integration with cloud databases for improved scalability.
-2.Addition of role-based access control for enhanced security.
-3.Implementation of analytics dashboards for administrative insights.
+# Project Name
+
+## Future Enhancements
+1. **Integration with cloud databases**: Improved scalability and performance by integrating with cloud-based databases.
+2. **Addition of role-based access control**: Enhanced security by implementing access control based on user roles.
+3. **Implementation of analytics dashboards**: Provide administrative insights through comprehensive analytics dashboards.
+
+## Contributing
+Contributions are welcome! Please follow the steps below to contribute:
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature-name
 
 
-### **Contributing**
--Contributions are welcome! Please follow the steps below:
+3. **Commit your canges and push to your fork**.
+4.**Create a pull request for review**.
 
-1.Fork the repository.
-2.Create a new branch
+# License
+-**This project is licensed under the MIT License. See the LICENSE file for details**.
 
--git checkout -b feature-name
-
-3.Commit your changes and push to your fork.
-4.Create a pull request for review.
-
--License
--This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any queries or suggestions, feel free to reach out:
--Email: parasspatil10@gmail.com.com
--GitHub: (https://github.com/paraspatil21)
+# Contact
+**For any queries or suggestions, feel free to reach out:**
+Email: parasspatil10@gmail.com.com
+GitHub: (https://github.com/paraspatil21)
 
 
 
