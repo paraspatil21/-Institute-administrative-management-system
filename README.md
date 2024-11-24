@@ -64,14 +64,14 @@ Contributions are welcome! Please follow the steps below to contribute:
 3. **Commit your canges and push to your fork**.
 4.**Create a pull request for review**.
 
-# License
--**This project is licensed under the MIT License. See the LICENSE file for details**.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-# Contact
-**For any queries or suggestions, feel free to reach out:**
-Email: parasspatil10@gmail.com.com
-GitHub: (https://github.com/paraspatil21)
+## Contact
+For any queries or suggestions, feel free to reach out:
 
+- **Email**: [parasspatil10@gmail.com](mailto:parasspatil10@gmail.com)
+- **GitHub**: [https://github.com/paraspatil21](https://github.com/paraspatil21)
 
 
 
