@@ -7,7 +7,7 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.sql.*;
 
-public class Final {
+public class IAMS {
     private static JFrame layeredFrame;
     private static JLayeredPane layeredPane;
 
@@ -734,12 +734,12 @@ public class Final {
                     // Statement statement = connection.createStatement();
                     Statement statement1 = connection.createStatement();
                     String createTableQuery = "CREATE TABLE IF NOT EXIST Sstudentleave ( name VARCHAR(255),\r\n" + //
-                                                "    roll VARCHAR(50),\r\n" + //
-                                                "    dept VARCHAR(100),\r\n" + //
-                                                "    leavenm VARCHAR(50),\r\n" + //
-                                                "    sdate VARCHAR(20),\r\n" + //
-                                                "    edate VARCHAR(20),\r\n" + //
-                                                "    reason VARCHAR(255))";
+                            "    roll VARCHAR(50),\r\n" + //
+                            "    dept VARCHAR(100),\r\n" + //
+                            "    leavenm VARCHAR(50),\r\n" + //
+                            "    sdate VARCHAR(20),\r\n" + //
+                            "    edate VARCHAR(20),\r\n" + //
+                            "    reason VARCHAR(255))";
                     statement1.executeUpdate(createTableQuery);
                     statement1.close();
                     String query = "INSERT INTO studentleave(name, roll, dept,leavenm,sdate,edate,reson) VALUES (?, ?, ?,?,?,?,?)";
@@ -945,12 +945,12 @@ public class Final {
                     // Statement statement = connection.createStatement();
                     Statement statement1 = connection.createStatement();
                     String createTableQuery = "CREATE TABLE IF NOT EXIST teacherleave ( name VARCHAR(255),\r\n" + //
-                                                "    roll VARCHAR(50),\r\n" + //
-                                                "    dept VARCHAR(100),\r\n" + //
-                                                "    leavenm VARCHAR(50),\r\n" + //
-                                                "    sdate VARCHAR(20),\r\n" + //
-                                                "    edate VARCHAR(20),\r\n" + //
-                                                "    reason VARCHAR(255))";
+                            "    roll VARCHAR(50),\r\n" + //
+                            "    dept VARCHAR(100),\r\n" + //
+                            "    leavenm VARCHAR(50),\r\n" + //
+                            "    sdate VARCHAR(20),\r\n" + //
+                            "    edate VARCHAR(20),\r\n" + //
+                            "    reason VARCHAR(255))";
                     statement1.executeUpdate(createTableQuery);
                     statement1.close();
                     String query = "INSERT INTO teacherleave(name, roll, dept,leavenm,sdate,edate,reson) VALUES (?, ?, ?,?,?,?,?)";
