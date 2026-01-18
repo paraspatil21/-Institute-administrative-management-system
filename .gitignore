@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Binaries
+bin/
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
